@@ -1,4 +1,5 @@
-# to-do-app
+# picaso-app
+## Photo collection app in Vuejs
 
 ## Project setup
 ```
